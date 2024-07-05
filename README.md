@@ -6,3 +6,11 @@ este repositorio é utilizado como exemplo na disciplina de programação de sis
 
 **Negrito**
 *Italico*
+
+- Lista
+- Lista
+- Lista
+
+1. Lista
+2. Lista
+3. Lista
